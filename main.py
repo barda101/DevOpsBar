@@ -15,5 +15,5 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-if 1 == 1:
-    print("1")
+if 2 == 2:
+    print("2")
